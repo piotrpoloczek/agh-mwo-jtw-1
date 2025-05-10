@@ -1,0 +1,3 @@
+/Users/piotr/Documents/Github/agh-mwo-jtw-1/cmake-build-debug/CMakeFiles/agh_mwo_jtw_1.dir
+/Users/piotr/Documents/Github/agh-mwo-jtw-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/piotr/Documents/Github/agh-mwo-jtw-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

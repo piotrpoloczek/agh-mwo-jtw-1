@@ -1,0 +1,5 @@
+# ninja log v6
+0	36	1746909429478660389	build.ninja	55dd61bfead272d9
+0	316	1746909429484861327	CMakeFiles/agh_mwo_jtw_1.dir/main.cpp.o	4d9a38ccaf4d2ba0
+0	319	1746909429485081786	CMakeFiles/agh_mwo_jtw_1.dir/rational/Rational.cpp.o	f4c9f81a427fd8f8
+319	351	1746909429803799155	agh_mwo_jtw_1	3d660d8a02ee19e
